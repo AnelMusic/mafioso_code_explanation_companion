@@ -1,6 +1,6 @@
 # mafioso_code_explanation_companion
 Train a Language Model capable of explaining Python code and providing explanations with a fun twist inspired by Hollywood mafia classics such as “The Godfather”, “Casino”, and “Goodfellas.
-![lama_mafiosi](https://github.com/AnelMusic/mafioso_code_explanation_companion/assets/32487291/056b405e-c4ce-4fcf-8fe7-fb232ed0c8e0)
+<img src="https://github.com/AnelMusic/mafioso_code_explanation_companion/assets/32487291/056b405e-c4ce-4fcf-8fe7-fb232ed0c8e0" width="300">
 
 ### Fine-Tuning Llama:
 
