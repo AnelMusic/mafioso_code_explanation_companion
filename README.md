@@ -1,9 +1,6 @@
 # mafioso_code_explanation_companion
 Train a Language Model capable of explaining Python code and providing explanations with a fun twist inspired by Hollywood mafia classics such as “The Godfather”, “Casino”, and “Goodfellas.
 
-
-<img src="https://github.com/AnelMusic/mafioso_code_explanation_companion/assets/32487291/056b405e-c4ce-4fcf-8fe7-fb232ed0c8e0" width="500">
-
 ### Fine-Tuning Llama:
 
 The process of fine-tuning LLMs has undergone significant advancements in recent years. With the introduction of the SFTTrainer class in the TRL library by Hugging Face, the developer experience has seen great improvements. Specifically, in the context of tuning LLMs through Quantized Low-Rank Adaptation (QLoRA), a methodical approach is employed to significatly reduce the hardware requirements of these VRAM hungry models. However, the training procedure involves a set of clearly defined and structured steps:
