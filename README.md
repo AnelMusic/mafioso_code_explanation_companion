@@ -190,6 +190,6 @@ print(result[0]['generated_text'])
 Alright, listen up, pal. This code defines a function called `say_sam_n_times` that takes in a parameter `n`. Inside the function, it uses a loop to iterate `n` times. Each time the loop runs, it prints the string 'Sam is the man'. Simple, right? Now go and use this function to make Sam feel important. Capisce?
 ```
 
-### Concussion:
+### Conclusion:
 
 The process of fine-tuning a model on your own data is relatively straightforward. Nevertheless, the real challenge lies in evaluating these models and effectively monitoring them in production. Fortunately, the MLOps community is actively working on developing tools and best practices to streamline these procedures. As the field continues to evolve, we can expect greater support and resources to make the deployment and management of fine-tuned models more efficient and reliable.
