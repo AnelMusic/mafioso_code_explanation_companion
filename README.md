@@ -1,4 +1,6 @@
-# mafioso_code_explanation_companion
+# Turn your LLM into a Mafioso Code Explanation Companion
+## A slightly more interesting fine-tuning objective.
+
 Train a Language Model capable of explaining Python code and providing explanations with a fun twist inspired by Hollywood mafia classics such as “The Godfather”, “Casino”, and “Goodfellas.
 
 ### Fine-Tuning Llama:
